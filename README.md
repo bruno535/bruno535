@@ -1,4 +1,4 @@
-### Eae man, sou o bruno535 👋
+### Eae man, sou o Bruno Henrique 👋
 
 
 - 🔭 Hoje estou apenas estudando

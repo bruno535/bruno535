@@ -1,9 +1,5 @@
-### Eae man, sou o Bruno Henrique 👋
-
-
-- 🔭 Hoje estou apenas estudando
-- 🌱 Estou estudando ReactJs
-- 😄 Pronouns: ele/dele
+### Eae, sou o Bruno Henrique 👋
+- 🔭 Hoje estou apenas estudando React, Node.js e MongoDB
  <div>
   <a href="https://github.com/bruno535">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno535&show_icons=true&bg_color=000&theme=dracula&include_all_commits=true&count_private=true"/>
